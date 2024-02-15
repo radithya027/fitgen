@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210663419031",
+    "project_id": "pkknotip",
+    "storage_bucket": "pkknotip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210663419031:android:6d0a55cba2c37dd9fc0dd2",
+        "android_client_info": {
+          "package_name": "com.example.fitgen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLplnvvgcsMfa0VmrhQc5cCFTGICOUYqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
