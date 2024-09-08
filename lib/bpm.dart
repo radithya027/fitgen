@@ -200,7 +200,7 @@ class _HeartRateMonitorState extends State<HeartRateMonitor> {
                 icon: Icon(_isRunning ? Icons.stop : Icons.play_arrow),
                 label: SizedBox.shrink(),
                 style: ElevatedButton.styleFrom(
-                  primary: _isRunning ? theme.textColor : theme.textColor,
+                  backgroundColor: _isRunning ? theme.textColor : theme.textColor,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(15),
                   ),
